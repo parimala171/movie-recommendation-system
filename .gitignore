@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+model.pkl
+similarity.pkl
+cleaned_data.csv
+movies.csv
